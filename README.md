@@ -1,4 +1,1 @@
-<<<<<<< HEAD
-=======
-
->>>>>>> 3b72efb379bf33d3fa8147a741a42b1c14636889
+my curso em video codes from classes
